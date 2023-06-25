@@ -1,0 +1,5 @@
+- name: macOS Setup Playbook by rainyskye
+  hosts: localhost
+
+  tasks:
+    - include: playbooks/
