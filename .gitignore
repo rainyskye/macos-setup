@@ -66,6 +66,8 @@ Temporary Items
 *.vsix
 
 ### VisualStudioCode Patch ###
+.vscode
+
 # Ignore all local history of files
 .history
 .ionide
